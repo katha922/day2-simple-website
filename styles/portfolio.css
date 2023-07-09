@@ -101,3 +101,26 @@ line-height: normal;
 .about-info{
     text-align: center;
 }
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+.skill{
+    gap: 24px;
+    padding: 30px;
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-description{
+    color: #757575;
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
